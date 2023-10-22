@@ -7,7 +7,7 @@
             <div>
                 <form>
                     <div class="mb-6">
-                        <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">*
+                        <label for="name" class="block mb-2 text-sm font-medium text-gray-900">*
                             Todo </label>
                         <input wire:model="name" type="text" id="name" placeholder="Todo.."
                             class="bg-gray-100  text-gray-900 text-sm rounded block w-full p-2.5">
